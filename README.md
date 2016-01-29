@@ -1,11 +1,10 @@
-# wiAPSolar
+# APAutonomoSolar
 Proyecto para la creación de un punto de acceso solar para guifi.net
 
 Arduino
 
 
-############
-# wiAPSolar
+# APAutonomoSolar
 
 Punto de acceso Wifi autónomo
 
